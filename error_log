@@ -1,0 +1,8 @@
+[07-Aug-2016 20:20:33 UTC] PHP Fatal error:  Class 'Obj' not found in /home/levihernan/public_html/oficialpimp/kirby/kirby.php on line 7
+[07-Aug-2016 20:27:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'The default template could not be found' in /home/levihernan/public_html/oficialpimp/kirby/kirby.php:702
+Stack trace:
+#0 /home/levihernan/public_html/oficialpimp/kirby/kirby.php(680): Kirby->template(Object(Page), Array)
+#1 /home/levihernan/public_html/oficialpimp/kirby/kirby.php(781): Kirby->render(Object(Page))
+#2 /home/levihernan/public_html/oficialpimp/index.php(16): Kirby->launch()
+#3 {main}
+  thrown in /home/levihernan/public_html/oficialpimp/kirby/kirby.php on line 702
