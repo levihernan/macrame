@@ -1,16 +1,8 @@
-Title: home
+Title: M de Macramé
 
 ----
 
-Text: 
-
-oficialpimp@gmail.com
- 
-(link: https://www.instagram.com/oficialpimp/ text: @oficialpimp)
-
-
-(link: https://www.facebook.com/pimpcampoficial/ text: PIMP CAMP)
- 
+Text: mdecampo56@hotmail.com
 
 ----
 
@@ -22,7 +14,7 @@ Author:
 
 ----
 
-Body: PIMP encuentra la fusión entre lo cool y lo sexy. Avalamos la idea de ser modernas sin tener que estar metidas adentro de una carpa. Siempre fieles a nuestro minimalismo intencional, obsesionadas con la calidad y la comodidad, no hacemos ni usamos ropa que no nos permita bailar toda la noche.
+Body: 
 
 ----
 

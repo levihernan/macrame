@@ -17,6 +17,7 @@ for more information: http://getkirby.com/license
 
 c::set('license', 'K2-PERSONAL-a0efccffe10542f2dd3b8894a1ccfdb3');
 
+
 /*c::set('cache',false);
 c::set('cache.ignore', array(
     'home'
