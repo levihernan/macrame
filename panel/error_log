@@ -1,0 +1,70 @@
+[01-Dec-2020 12:56:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 17:44:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 17:46:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 17:46:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 17:46:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 17:46:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 18:17:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 18:17:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 18:17:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
+[02-Dec-2020 18:20:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Kirby\Panel\Models\Page\Blueprint\Files::fields(), 0 passed in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php on line 225 and exactly 1 expected in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php:53
+Stack trace:
+#0 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/file.php(225): Kirby\Panel\Models\Page\Blueprint\Files->fields()
+#1 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(59): Kirby\Panel\Models\File->createMeta()
+#2 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/uploader.php(29): Kirby\Panel\Models\Page\Uploader->upload()
+#3 /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page.php(417): Kirby\Panel\Models\Page\Uploader->__construct(Object(Kirby\Panel\Models\Page))
+#4 /home/levihernan/public_html/misc/macrame/panel/app/controllers/files.php(80): Kirby\Panel\Models\P in /home/levihernan/public_html/misc/macrame/panel/app/src/panel/models/page/blueprint/files.php on line 53
